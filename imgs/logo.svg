@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="300"
+   inkscape:export-xdpi="300"
+   inkscape:export-filename="/home/michel/Documents/Geodata/SourceCode/case_django/opentesouro_docs/logo.png"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1281"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs1275" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="16.599555"
+     inkscape:cy="703.56165"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1866"
+     inkscape:window-height="1043"
+     inkscape:window-x="1420"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata1278">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1295"
+       style="fill:#ac9d93;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0352778"
+       d="M -454.83392,86.937542 H -244.832 V -123.06402 h -210.00192 z"
+       inkscape:export-filename="/home/michel/Documents/Geodata/SourceCode/case_django/opentesouro_docs/logo.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       id="g66"
+       transform="matrix(0.02169075,0,0,-0.02169075,-25.110228,279.07834)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="m 5987.53,5223.12 c -1142.79,0 -2069.21,920.71 -2069.21,2056.47 0,1135.76 926.42,2056.47 2069.21,2056.47 1142.8,0 2069.21,-920.71 2069.21,-2056.47 0,-1135.76 -926.41,-2056.47 -2069.21,-2056.47 z M 9350,7228.18 C 9350,8974.4 7850.36,10390 6000.46,10390 4150.57,10390 2650.93,8974.4 2650.93,7228.18 c 0,0 -258.65,-2082.18 3336.6,-5578.18 3283.53,3172.21 3373.29,5180.25 3361.76,5525.02 0.31,17.7 0.71,35.39 0.71,53.16"
+         style="fill:#ed1c24;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path68-3" />
+      <path
+         d="m 7170,7335 c 0,-648.94 -526.06,-1175 -1175,-1175 -648.94,0 -1175,526.06 -1175,1175 0,648.94 526.06,1175 1175,1175 648.94,0 1175,-526.06 1175,-1175"
+         style="fill:#911921;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path70-6" />
+    </g>
+  </g>
+</svg>
